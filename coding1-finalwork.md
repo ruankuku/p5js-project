@@ -45,9 +45,9 @@ I learned how to create a mosaic effect and improved my coding logic. Before, I 
 
 <img width="2190" height="1672" alt="image" src="https://github.com/user-attachments/assets/4492dd4a-a209-4748-a8f6-0d855cdac56c" />
 
-<img width="1020" alt="image" src="https://git.arts.ac.uk/24010429/CCI-Course-Notebook/assets/1205/006cb0e1-a7f1-4834-8204-5014403636ed">
+<img width="2040" height="1518" alt="image" src="https://github.com/user-attachments/assets/a702f11e-7211-4915-b5bb-f832f80a4db8" />
 
-<img width="1018" alt="image" src="https://git.arts.ac.uk/24010429/CCI-Course-Notebook/assets/1205/8681d24a-4ca6-4f6b-9694-dc882f74d079">
+<img width="2036" height="1510" alt="image" src="https://github.com/user-attachments/assets/920930ad-ad6e-43c3-a493-8f8f0d75c6c2" />
 
 **References**
 
