@@ -8,8 +8,6 @@
 
 [[Chronos Unbound](https://editor.p5js.org/ruankuku188/sketches/1Kbr8elw5)]
 
-[[My website](https://git.arts.ac.uk/pages/24010429/24010429.github.io/)]
-
 **Project Video:** 
 
 [[My video](https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5bfe5b88-5232-4f2b-bf1e-b2a800607aa9)]
@@ -42,9 +40,9 @@ In the lead up to this project, I also did some research on time. From the exist
 
 **Project Images** 
 
-![宇宙](https://git.arts.ac.uk/24010429/CCI-Course-Notebook-2/assets/1205/88d204aa-b719-40e9-86c0-bbc3a1f04b29)
+<img width="2232" height="905" alt="image" src="https://github.com/user-attachments/assets/b262c225-01d2-4660-860e-75a4c5cd3e81" />
 
-<img width="794" alt="image" src="https://git.arts.ac.uk/24010429/CCI-Course-Notebook-2/assets/1205/b347f453-0b58-46bf-804e-d5aa3dbad26b">
+<img width="1588" height="774" alt="image" src="https://github.com/user-attachments/assets/46f8abf5-b5d6-4072-a4f6-0dd30f00ffe8" />
 
 
 **References:**
@@ -56,5 +54,4 @@ I borrowed from [[this work](https://openprocessing.org/sketch/885665)] in terms
 Regarding time, I found the reference in p5.js.[[hours, minute, second](https://p5js.org/reference/p5/hour/)]
 
 I also sought help from GPT in some aspects. For example, I didn’t know how to preset the font on the grid, and AI gave me a new idea.
-<img width="772" alt="image" src="https://git.arts.ac.uk/24010429/CCI-Course-Notebook-2/assets/1205/2d59a51c-e7c6-4d99-b325-7201f90cc6f6">
-
+<img width="1544" height="1526" alt="image" src="https://github.com/user-attachments/assets/388f2f8e-8bf7-44e2-8ba2-bcf0522c8b67" />
