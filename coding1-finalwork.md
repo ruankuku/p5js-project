@@ -4,8 +4,6 @@
 
 Name：ZhaokeRuan
 
-ID：24010429
-
 Title：Organ Overture
 
 **Sketch Link**
@@ -45,7 +43,7 @@ I learned how to create a mosaic effect and improved my coding logic. Before, I 
 
 **Project Images**
 
-<img width="1095" alt="image" src="https://git.arts.ac.uk/24010429/CCI-Course-Notebook/assets/1205/45a93435-4491-4c3c-8e26-14247b8d46cf">
+<img width="2190" height="1672" alt="image" src="https://github.com/user-attachments/assets/4492dd4a-a209-4748-a8f6-0d855cdac56c" />
 
 <img width="1020" alt="image" src="https://git.arts.ac.uk/24010429/CCI-Course-Notebook/assets/1205/006cb0e1-a7f1-4834-8204-5014403636ed">
 
