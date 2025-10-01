@@ -1,2 +1,2 @@
 # p5js-project
-My personal repository
+My coding work in p5js
