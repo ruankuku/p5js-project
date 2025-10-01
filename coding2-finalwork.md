@@ -10,7 +10,7 @@
 
 **Project Video:** 
 
-[[My video](https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5bfe5b88-5232-4f2b-bf1e-b2a800607aa9)]
+[[My video](https://youtu.be/B3qSjCDquU8)]
 
 **Project Description**
 
