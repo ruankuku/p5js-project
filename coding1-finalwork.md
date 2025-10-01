@@ -60,6 +60,3 @@ While creating organ illustrations with smiley faces, I utilized [this AI art we
 I used ChatGPT to help me troubleshoot issues, such as when I initially imported PNG images, and black backgrounds appeared around them.
 
 
-#### Homework Submissions  
-- [Link to Homework 1](https://editor.p5js.org/ruankuku188/sketches/EmE4XCpOV)  
-- [Link to Homework 2](https://editor.p5js.org/ruankuku188/sketches/tgh5Kog-c) 
